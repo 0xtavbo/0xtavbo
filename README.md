@@ -7,7 +7,7 @@
 💻 Currently learning the MERN stack, and very interested in Solidity and smart contracts development
 <br>
 
-## 🔨𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+## 🔨 Projects I'm w𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 piola-components: a React components library using styled-components
 <br>
 
@@ -22,7 +22,7 @@ piola-components: a React components library using styled-components
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📚 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴
+## 📚 L𝗲𝗮𝗿𝗻𝗶𝗻𝗴
 ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
