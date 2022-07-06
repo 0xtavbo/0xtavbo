@@ -1,15 +1,17 @@
-# Hello anon 👋 I'm Gustavo!
+# Hello anon 👋 I'm Gus!
 
 ✨ I'm a Full Stack Web Developer student at NUCBA
-🚀 I like coding and technical challenges
-💻 Currently learning the MERN stack, and very interested in Solidity and smart contracts development
 <br>
+🚀 I like coding and technical challenges
+<br>
+💻 Currently learning the MERN stack, and very interested in Solidity and smart contracts development
 <br>
 
 ## 🔨𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+piola-components: a React components library using styled-components
 <br>
 
-## 👨‍ 💻𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗮𝗻𝗱 𝘁𝗼𝗼𝗹𝘀
+## 💻 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗮𝗻𝗱 𝘁𝗼𝗼𝗹𝘀
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
