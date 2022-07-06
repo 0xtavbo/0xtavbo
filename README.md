@@ -1,4 +1,4 @@
-# Hola 👋 I'm Gustavo!
+# Hello anon 👋 I'm Gustavo!
 
 ✨ I'm a Full Stack Web Developer student at NUCBA
 🚀 I like coding and technical challenges
