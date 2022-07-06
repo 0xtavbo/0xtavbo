@@ -8,7 +8,7 @@
 <br>
 
 ## 🔨 Projects I'm working on
-piola-components: a React components library using styled-components
+##piola-components:## a React components library using styled-components
 <br>
 
 ## 💻 Technologies and tools
