@@ -1,6 +1,6 @@
 # Hello anon 👋 I'm Gus!
 
-✨ I'm a Full Stack Web Developer student at NUCBA
+✨ I'm a Frontend Developer and Full Stack Web Developer student at NUCBA
 <br>
 🚀 I like coding and technical challenges
 <br>
