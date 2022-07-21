@@ -9,6 +9,7 @@
 
 ## 🔨 Projects I'm working on
 **piola-components**: a React components library using styled-components
+**movii**: a movies discover app using The Movie Database API
 <br>
 
 ## 💻 Technologies and tools
