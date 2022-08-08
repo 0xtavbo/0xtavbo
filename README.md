@@ -2,7 +2,7 @@
 
 ✨ I'm a Frontend Developer
 <br>
-📚 Full Stack Web Developer student at NUCBA
+📚 Full Stack Web Development student at NUCBA
 <br>
 🚀 I like coding and technical challenges
 <br>
